@@ -1,2 +1,3 @@
-# Deep_Learning_in_R
-This my first project with deep learning in R
+# Machine Learning projects in R
+In this repository I practice my machine learning skills in R
+
